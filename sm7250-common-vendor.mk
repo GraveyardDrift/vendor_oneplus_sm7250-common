@@ -822,7 +822,6 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
-    imssettings \
     WfdService \
     qcrilmsgtunnel \
     WfdCommon \
