@@ -823,7 +823,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
     WfdService \
-    qcrilmsgtunnel \
     WfdCommon \
     tcmclient \
     com.android.hotwordenrollment.common.util \
