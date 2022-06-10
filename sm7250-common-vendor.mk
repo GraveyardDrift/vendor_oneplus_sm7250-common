@@ -822,7 +822,6 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
-    QtiTelephonyService \
     imssettings \
     WfdService \
     ims \
