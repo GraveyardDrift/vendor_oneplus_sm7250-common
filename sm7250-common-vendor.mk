@@ -824,7 +824,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleHEXAGON \
     WfdService \
     WfdCommon \
-    tcmclient \
     com.android.hotwordenrollment.common.util \
     vendor.qti.hardware.alarm-V1.0-java \
     android.hardware.gnss@2.1-service-qti \
