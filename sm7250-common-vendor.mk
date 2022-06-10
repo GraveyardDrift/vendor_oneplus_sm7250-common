@@ -824,7 +824,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleHEXAGON \
     imssettings \
     WfdService \
-    ims \
     qcrilmsgtunnel \
     WfdCommon \
     tcmclient \
