@@ -829,7 +829,6 @@ PRODUCT_PACKAGES += \
     WfdCommon \
     tcmclient \
     com.android.hotwordenrollment.common.util \
-    com.qti.dpmframework \
     dpmapi \
     qcrilhook \
     vendor.qti.hardware.alarm-V1.0-java \
